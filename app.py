@@ -4,7 +4,7 @@ from io import BytesIO
 
 st.set_page_config(page_title="Formulario SPAcio Sin Filtro", layout="wide")
 
-st.title("📋 Formulario de Recolección de Datos de Movilidad")
+st.title("📋 Formulario de Recolección de Datos")
 
 # Campos comunes
 st.subheader("Información general de la entidad territorial")
